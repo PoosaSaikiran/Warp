@@ -1,11 +1,2 @@
-ee#Warp
-gd
-ge
-g
-gf
-ge
-fe
-fdeeeeee
-fdde
-dde
-e
+#Warp
+
