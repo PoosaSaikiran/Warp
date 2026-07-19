@@ -1,10 +1,1 @@
 #Warp
-j
-j
-j
-d
-d
-d
-ds
-s
-s
